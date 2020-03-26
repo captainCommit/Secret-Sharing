@@ -6,6 +6,6 @@
 
 ---
 # Files
-> * **ss.py** : The secret sharing package class
+* **ss.py** : The secret sharing package class
 * **benchamrk.py** : Used for checking memory and time complexity
 
